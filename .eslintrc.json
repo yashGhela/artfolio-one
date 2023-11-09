@@ -1,0 +1,8 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    // Add your rule configurations here
+    "react/jsx-key": "off", // Disabling the react/jsx-key rule globally
+    "react/no-unescaped-entities": "off" // Disabling the react/no-unescaped-entities rule globally
+  }
+}
